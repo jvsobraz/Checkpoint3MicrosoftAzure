@@ -1,23 +1,23 @@
 # Objetivo
 
 Steves Jobs está orgulhoso com as entregas feitas e ciente que a
-organização fez o investimento certo no momento certo
+organização fez o investimento certo no momento certo.
 
 Agora precisamos ir um passo a frente, pois existem algumas demandas de
 negócio que precisam ser resolvidas, onde cada uma utiliza um tipo de
-solução que necessita ser utilizada
+solução que necessita ser utilizada.
 Seu grupo deve:
 1) Selecionar uma demanda e desenvolver uma solução utilizando uma
 das técnicas disponíveis: Máquina Virtual, Docker Compose, IoT Hub ou
-Serviços Cognitivos
+Serviços Cognitivos.
 2) É esperado um How To no formato de Vídeo que permita um usuário
-leigo no Azure executar o procedimento de forma correta
+leigo no Azure executar o procedimento de forma correta.
 
 ## Desafio
 
 Vamos aprimorar os conhecimentos adquiridos até o momento na
 plataforma de Cloud Computing Azure, aprofundando o uso nessa
-importante plataforma
+importante plataforma.
 
 No projeto selecionamos a seguinte solução:
 
@@ -27,7 +27,7 @@ nessa VM. Instale os softwares necessários e rode sua solução
 IaaS em nuvem. Pode utilizar qualquer tecnologia (qualquer
 linguagem de programação), qualquer banco de dados,
 qualquer Sistema Operacional e qualquer imagem de VM da
-Azure
+Azure.
 
 # Entrega FINAL
 

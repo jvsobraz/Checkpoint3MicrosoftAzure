@@ -1,1 +1,1 @@
-# Checkpoint3MicrosoftAzure
+# Checkpoint 3 - Microsoft Azure

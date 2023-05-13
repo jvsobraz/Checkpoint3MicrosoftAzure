@@ -46,3 +46,9 @@ c) Realize o Upload desse arquivo na ferramenta Teams.
 d) Apenas o representante do grupo realiza o Upload.
 
 Link do vídeo explicativo no Youtube: https://youtu.be/kuJuf1xwPsQ
+
+## Fontes de pesquisa e ajuda:
+
+- Slides das aulas lecionadas pelo Professor João Menk da instituição FIAP.
+- [https://balta.io/blog/visual-studio-code-instalacao-customizacao#:~:text=A%20instala%C3%A7%C3%A3o%20no%20Linux%20%C3%A9,Download%20voc%C3%AA%20ter%C3%A1%20um%20pacote%20.](https://www.treinaweb.com.br/blog/instalacao-do-vs-code-no-windows-linux-e-macos)
+- Foi utilizado a imagem Ubuntu já direcionada pela própria Azure na criação dos recursos e da máquina virtual.

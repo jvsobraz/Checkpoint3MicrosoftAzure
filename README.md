@@ -19,7 +19,7 @@ Vamos aprimorar os conhecimentos adquiridos até o momento na
 plataforma de Cloud Computing Azure, aprofundando o uso nessa
 importante plataforma
 
-Em grupo, selecione uma das seguintes soluções:
+No projeto selecionamos a seguinte solução:
 
 1) Máquina Virtual: Crie uma VM em nuvem e realize a
 implementação de qualquer App com persistência de dados

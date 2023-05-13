@@ -44,3 +44,5 @@ documentação etc).
 c) Realize o Upload desse arquivo na ferramenta Teams.
 
 d) Apenas o representante do grupo realiza o Upload.
+
+Link do vídeo explicativo no Youtube: https://youtu.be/kuJuf1xwPsQ
